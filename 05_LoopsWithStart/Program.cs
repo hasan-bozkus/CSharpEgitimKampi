@@ -170,5 +170,3 @@ namespace _05_LoopsWithStart
 		}
 	}
 }
-
-//
