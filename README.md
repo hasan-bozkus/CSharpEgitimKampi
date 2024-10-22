@@ -1,6 +1,6 @@
 # C# Egitim Kampı 
 
-M&Y Yazılım Eğitim Akademi Danışmanlık bünyesinde youtube tarafında C# için yapılan "Sertifikalı" bir eğitim projedir.
+M&Y Yazılım Eğitim Akademi Danışmanlık bünyesinde youtube tarafında C# için yapılan "Sertifikalı" bir eğitim projesidir.
 
 # C# Nedir?
 C#, Microsoft tarafından geliştirilen, son döneme uygun ve nesne yönelimli/tabanlı bir programlama dilidir. Özellikle .NET Framework vb. araçlar ile birlikte kullanımı yaygınlaşmıştır. C#, kuvvetli, güvenli ve esnek bir yapıya sahip olması üzerine hem masaüstü uygulamaları, hem web uygulamaları hem de mobil uygulamalar gibi geniş bir yelpazede yazılım geliştirmeye olanak tanır.
